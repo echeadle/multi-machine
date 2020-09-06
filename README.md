@@ -1,0 +1,2 @@
+# multi-machine
+Vagrant Template
